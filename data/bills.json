@@ -1,0 +1,14 @@
+{
+    "bill-1": {
+        "price_pln": 1234,
+        "pay_day": "2025-01-01",
+        "type": "git",
+        "apartment": "apart-polanka"
+    },
+    "bill-2": {
+        "price_pln": 8,
+        "pay_day": "2025-01-02",
+        "type": "git",
+        "apartment": "apart-polanka"
+    }
+}
